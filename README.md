@@ -4,3 +4,6 @@ The data set also contains customer demographics, product details and Total purc
 
 ## Data Evaluation
 Firstly, check out the labels where missing value is present. If there are more than 50% columns have a missing value than we remove that row from our dataset.
+
+### Missing Number Matrix
+<img src="/image/missingno_matrix.png" alt="matrix.png">
