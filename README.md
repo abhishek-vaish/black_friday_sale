@@ -7,3 +7,5 @@ Firstly, check out the labels where missing value is present. If there are more 
 
 ### Missing Number Matrix
 ![matrix.png](/image/missingno_matrix.png)
+
+Since we have a lots of missing value in the `Product_Category_2` and `Product_Category_3` so we remove these value from the dataset.
