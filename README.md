@@ -9,3 +9,12 @@ Firstly, check out the labels where missing value is present. If there are more 
 ![matrix.png](/image/missingno_matrix.png)
 
 Since we have a lots of missing value in the `Product_Category_2` and `Product_Category_3` so we remove these value from the dataset.
+
+### Labels Evaluation
+In this section, we perform the data evaluation on the different labels of the dataset.
+
+* Gender Evalation
+
+  **Description:** Sex of User
+
+![gender.png](/image/gender.png)
